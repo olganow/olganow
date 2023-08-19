@@ -11,7 +11,7 @@ I worked in a fast-paced agile startup environment and it is very interesting fo
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp
-  <img src="https://avatars.githubusercontent.com/u/43955696?s=200&v=4" title="gradle" alt="gradle" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/43955696?s=200&v=4" title="selenide" alt="selenide" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp
   <img src="https://github.com/actions/starter-workflows/blob/main/icons/maven.svg" title="maven" alt="maven" width="40" height="40"/>&nbsp;&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;&nbsp
@@ -29,10 +29,10 @@ I worked in a fast-paced agile startup environment and it is very interesting fo
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
-  <img src="https://insomnia.rest/images/insomnia-logo.svg" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
+  //<img src="https://insomnia.rest/images/insomnia-logo.svg" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
   <img src="https://imgix.datadoghq.com/img/dd_logo_n_70x75.png?ch=Width,DPR&fit=max&auto=format&w=70&h=75&dpr=2" title="datadog" alt="datadog" width="40" height="40"/>&nbsp;
-  <img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt0423c2ca741d3c05/5ea8c90064f47652ec7993f4/brand-kibana-220x130.svg" title="kibana for elasticsearch" alt="kibana" width="40" height="40"/>&nbsp;
-  <img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" title="testrail" alt="testrail" width="40" height="40"/>&nbsp;
+  //<img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt0423c2ca741d3c05/5ea8c90064f47652ec7993f4/brand-kibana-220x130.svg" title="kibana for elasticsearch" alt="kibana" width="40" height="40"/>&nbsp;
+  //<img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" title="testrail" alt="testrail" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
