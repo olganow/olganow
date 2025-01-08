@@ -12,7 +12,6 @@ I worked in a fast-paced agile startup environment and it is very interesting fo
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/43955696?s=200&v=4" title="selenide" alt="selenide" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp
   <img src="https://github.com/actions/starter-workflows/blob/main/icons/maven.svg" title="maven" alt="maven" width="40" height="40"/>&nbsp;&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;&nbsp
@@ -40,9 +39,6 @@ I worked in a fast-paced agile startup environment and it is very interesting fo
 
 <table>
   <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=olganow&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olganow&layout=compact&theme=vision-friendly-dark" />
     </td>
